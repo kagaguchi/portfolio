@@ -172,6 +172,7 @@ header .h1 {
     top:50%;
     left:50%;
     transform: translate(-50%,-50%);
+    max-width: 600px;
     padding:0;
     margin:0;
     font-size:30px;
