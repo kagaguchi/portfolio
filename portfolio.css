@@ -187,11 +187,11 @@ header .h1 {
   background: #000000;
 }
 .list img {
-  height: auto;
+  height: 600px;
   width: auto;
   display: inline-block;
   margin: 0 auto;
-  max-width: 500px;
+  max-width: 1200px;
 }
 .rogo img {
   width: 100px;
@@ -199,12 +199,12 @@ header .h1 {
   display: inline-block;
   background-color: #174a5c;
 }
-.xcode {
-  height: auto;
+.put img {
+  height: 60px;
   width: auto;
   display: inline-block;
   margin: 0 auto;
-  max-width: 500px;
+  max-width: 60%;
 }
 /*フッター*/
   footer{
