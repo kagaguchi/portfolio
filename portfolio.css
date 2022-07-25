@@ -158,12 +158,59 @@ header .h1 {
   /*ハンバーガーメニュー*/
 
   
+  .jiko{
+    width:auto;
+    height: auto;
+    position: relative;
+  }
+  .jiko img{
+    width: 100vw;
+    height: auto;
+  }
+  .jiko p{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    padding:0;
+    margin:0;
+    font-size:30px;
+    color: honeydew;
+}
 
+.list {
+
+}
+.list video{
+  width: auto;
+  height: auto;
+  background: #000000;
+}
+.list img {
+  height: auto;
+  width: auto;
+  display: inline-block;
+  margin: 0 auto;
+  max-width: 500px;
+}
+.rogo img {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  background-color: #174a5c;
+}
+.xcode {
+  height: auto;
+  width: auto;
+  display: inline-block;
+  margin: 0 auto;
+  max-width: 500px;
+}
 /*フッター*/
   footer{
     width: 100%;
     height: 100px;
-    background-color: #174a5c;
+    background-color: #000000;
     color: white;
     text-align: center;
 }
